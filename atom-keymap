@@ -1,0 +1,12 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'cmd-n': 'tree-view:add-file'
+  'cmd-shift-J': 'core:move-left'
+  'cmd-shift-L': 'core:move-right'
+  'cmd-shift-K': 'core:move-down'
+  'cmd-shift-I': 'core:move-up'
+  'cmd-shift-H': 'editor:move-to-beginning-of-line'
+  'cmd-shift-A': 'editor:move-to-end-of-line'
+  'cmd-shift-M': 'core:move-to-bottom'
+  'cmd-shift-alt-J': 'editor:move-to-beginning-of-word'
+  'cmd-shift-alt-L': 'editor:move-to-end-of-word'
+  'cmd-shift-X': 'editor:delete-line'
